@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Nazrin S
 
-<!--
-**NAZRIN234/NAZRIN234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web Developer | Python & C Programmer
 
-Here are some ideas to get you started:
+🌐 **[Visit My Portfolio Website →](https://nazrin234.github.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🎓 Final Year B.Tech CSE Student
+- 💻 Proficient in Python, C, JavaScript, HTML5, CSS3
+- 🔧 Frameworks: Django, React.js, FastAPI
+- 🗄️ Tools: GitHub, VS Code, Supabase
+- 📧 nazrinshajahan123@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nazrinshajahan)
