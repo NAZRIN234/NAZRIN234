@@ -2,7 +2,8 @@
 
 ### 🚀 Web Developer
 
-🌐 **[Visit My Portfolio Website →](https://nazrin234.github.io)**
+🌐 **[Visit My Portfolio →](https://nazrin234.github.io/NAZRIN234/)**
+
 
 ---
 
@@ -12,3 +13,6 @@
 - 🗄️ Tools: GitHub, VS Code, Supabase
 - 📧 nazrinshajahan123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nazrinshajahan)
+
+
+
