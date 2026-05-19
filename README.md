@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nazrin S
 
-### 🚀 Web Developer | Python & C Programmer
+### 🚀 Web Developer
 
 🌐 **[Visit My Portfolio Website →](https://nazrin234.github.io)**
 
